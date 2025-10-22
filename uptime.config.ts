@@ -106,7 +106,7 @@ const workerConfig: WorkerConfig = {
       // [Required] payload to be sent
       // $MSG will be replaced with the human-readable notification message
       payload: {
-        chat_id: 12345678,
+        chat_id: 123456789,
         text: '$MSG',
       },
       // [Optional] timeout calling this webhook, in millisecond, default to 5000
